@@ -1,0 +1,67 @@
+# Domestic-Waste-Management
+hackathon
+css:-.header {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+
+
+.header h1 {
+    color: rgb(22, 162, 209);
+    font-size: 100;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.section {
+    padding: 20px;
+}
+
+.header h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header h2 {
+    background-color: rgb(13, 240, 210) ;
+    border: 1px solid #11dae1;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.event-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.event-date {
+    color: #eb1fcc;
+    font-size: 15px;
+}
+
+.event-description {
+    font-size: 18px;
+}
+
+.event-link {
+    text-decoration: none;
+    color: #f71bcb;
+}
+
+#external_links {
+    text-align: center;
+}
+#external_links button {
+    margin: 10px;
+}
+#external_links button a {
+    color: #fff;
+    text-decoration: none;
+}
+#external_links button:hover {
+    background-color: #e68a00;
+}

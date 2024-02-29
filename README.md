@@ -1,2 +1,0 @@
-# Domestic-Waste-Management
-hackathon
