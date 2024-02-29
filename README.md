@@ -33,21 +33,12 @@ HTML code:-html:-<!DOCTYPE html>
             <div class="event-link"><a href="READMORE2.HTML">READ MORE</a></div>
         </div>
     </div>
-    <section id="external_links">
+    <section id="">
         <h2>External Links</h2>
         <button><a href="" target="_blank">Example Website</a></button>
         <button><a href="" target="_blank">Another Example Website</a></button>
     </section>
-    <footer>
-        <p>&copy; 2024 Community Waste Management. All rights reserved.</p>
-    </footer>
-    <script>
-        document.getElementById('').addEventListener('click', function() {
-            window.open('', '_blank');
-        });
-        document.getElementById('').addEventListener('click', function() {
-            window.open('', '_blank');
-        });
+   
     </script>
 </body>
 </html>
